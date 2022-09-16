@@ -7,7 +7,8 @@
 	],
 	"ignorePatterns": [
 		"webpack.config.js",
-		"react-app-env.d.ts"
+		"react-app-env.d.ts",
+		"jest.config.js"
 	],
 	"rules": {
 		"semi": "off",
