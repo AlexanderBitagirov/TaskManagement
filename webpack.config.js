@@ -39,7 +39,7 @@ module.exports = {
     ), 
     new WebpackNotifierPlugin(
       {
-        alwaysNotify: true
+        alwaysNotify: false
       }
     ),
   ],
