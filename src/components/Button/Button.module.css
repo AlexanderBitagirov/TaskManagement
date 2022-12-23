@@ -1,0 +1,16 @@
+.button {
+  width: 180px;
+  height: 50px;
+  border: none;
+  cursor: pointer;
+}
+
+.purple {
+  color: #fff;
+  background-color: #973fcf;
+}
+
+.primary {
+  color: #fff;
+  background-color: #4483f7;
+}
