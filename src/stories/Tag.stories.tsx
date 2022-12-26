@@ -23,3 +23,19 @@ export const Blue = Template.bind({});
 Blue.args = {
   appearance: "blue"
 };
+
+export const Yellow = Template.bind({});
+Yellow.args = {
+  appearance: "yellow"
+};
+
+export const Green = Template.bind({});
+Green.args = {
+  appearance: "green"
+};
+
+
+export const Red = Template.bind({});
+Red.args = {
+  appearance: "red"
+};
