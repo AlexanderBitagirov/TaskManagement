@@ -1,3 +1,38 @@
-.card {
-  display: none;
+.tag {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  color: #ffffff;
+  border-radius: 4px;
+}
+
+.blue {
+  background: #5ac3dd;
+}
+
+.orange {
+  background: #f3b44e;
+}
+
+.purple {
+  background: #973fcf;
+}
+
+.large {
+  width: 100px;
+  height: 20px;
+
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 15px;
+}
+
+.small {
+  width: 30px;
+  height: 16px;
+
+  font-weight: 600;
+  font-size: 10px;
+  line-height: 12px;
 }

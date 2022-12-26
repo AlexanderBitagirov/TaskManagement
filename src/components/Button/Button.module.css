@@ -3,6 +3,10 @@
   height: 50px;
   border: none;
   cursor: pointer;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  border-radius: 4px;
 }
 
 .purple {
@@ -10,7 +14,15 @@
   background-color: #973fcf;
 }
 
+.purple:active {
+  background-color: #a65ed3;
+}
+
 .primary {
   color: #fff;
   background-color: #4483f7;
+}
+
+.primary:active {
+  background-color: #6f9ff8;
 }
